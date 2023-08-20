@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Москва",
+        "name_company": "Группа Самолет",
+        "title": "Senior Python (Django) разработчик",
+        "link": "https://spb.hh.ru/vacancy/80010521?from=vacancy_search_list&query=python",
+        "price": "Зарплата не указана"
+    },
+    {
+        "city": "Москва",
+        "name_company": "ООО Протектор",
+        "title": "Backend Python Developer (Django)",
+        "link": "https://spb.hh.ru/vacancy/83458412?from=vacancy_search_list&query=python",
+        "price": "от 160 000 ₽"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Москва, Ботанический сад и еще 1 ",
+        "name_company": "ЧУ ДО Московская школа программистов",
+        "title": "Middle Backend Python/Django",
+        "link": "https://spb.hh.ru/vacancy/84963163?from=vacancy_search_list&query=python",
+        "price": "220 000 – 280 000 ₽"
+    },
+    {
+        "city": "Москва",
+        "name_company": "Группа Самолет",
+        "title": "Senior Python (Django) Developer",
+        "link": "https://spb.hh.ru/vacancy/80998112?from=vacancy_search_list&query=python",
+        "price": "Зарплата не указана"
+    },
+    {
+        "city": "Москва",
+        "name_company": "билайн: ИТ, Data, Digital",
+        "title": "Старший разработчик Python (Django)",
+        "link": "https://spb.hh.ru/vacancy/84754409?from=vacancy_search_list&query=python",
+        "price": "Зарплата не указана"
+    },
+    {
+        "city": "Москва",
+        "name_company": "ООО Фабрика Решений",
+        "title": "Разработчик Python (Django, DRF)",
+        "link": "https://spb.hh.ru/vacancy/82929790?from=vacancy_search_list&query=python",
+        "price": "150 000 – 250 000 ₽"
+    }
+]

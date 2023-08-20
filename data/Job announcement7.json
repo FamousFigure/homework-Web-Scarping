@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Москва",
+        "name_company": "Российское общество Знание",
+        "title": "Python-разработчик (Django)",
+        "link": "https://spb.hh.ru/vacancy/84046952?from=vacancy_search_list&query=python",
+        "price": "от 230 000 ₽"
+    },
+    {
+        "city": "Москва",
+        "name_company": "ИП Березняк Антон Викторович",
+        "title": "Преподаватель Python Django (удаленно)",
+        "link": "https://spb.hh.ru/vacancy/84231982?from=vacancy_search_list&query=python",
+        "price": "до 120 000 ₽"
+    }
+]
